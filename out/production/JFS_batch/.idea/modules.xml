@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JFS_batch.iml" filepath="$PROJECT_DIR$/JFS_batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbd/jdbd.iml" filepath="$PROJECT_DIR$/jdbd/jdbd.iml" />
     </modules>
   </component>
 </project>
